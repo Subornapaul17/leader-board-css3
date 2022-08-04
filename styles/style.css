@@ -98,7 +98,7 @@ hr {
 .courses {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 24px;
+    grid-column-gap: 23px;
 }
 
 .course .course-banner img {
